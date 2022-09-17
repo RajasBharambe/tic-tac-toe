@@ -1,4 +1,6 @@
+var game=1, score1=0, score2=0;
 
+var turn=1;
 var data = [0,0,0,0,0,0,0,0,0];
 var over=false;
 var timer=false;
