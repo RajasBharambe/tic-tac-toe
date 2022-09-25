@@ -1,7 +1,7 @@
 # Tic Tac Toe
 
 ### Specifications:
-serrere
+serre
 - There should be an interactive 3X3 board. (When we say square, we mean those smallest squares).
 - Players have their respective symbol (cross or circle). These symbols will be interchanged after each game (i.e. in the first game, player1 gets cross; in the next game, player 2 gets cross ..). At the start of every game, cross plays first.
 - Players play by clicking a square. When one player clicks a free square, their symbol (either a circle or a cross) should appear inside that square. If someone clicks an occupied square, nothing should happen.
